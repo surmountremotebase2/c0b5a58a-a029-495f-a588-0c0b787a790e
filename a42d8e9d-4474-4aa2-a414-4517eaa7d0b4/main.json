@@ -1,1 +1,1 @@
-{}
+{"allocations": {"SPY": 20.0, "QQQ": 15.0, "VIX": 5.0, "AAPL": 12.0, "TSLA": 10.0, "MSFT": 12.0, "NVDA": 8.0, "GLD": 8.0, "TLT": 5.0, "IWM": 5.0}, "frequency": 1, "name": "", "period": "days"}
